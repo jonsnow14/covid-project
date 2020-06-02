@@ -1,0 +1,5689 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Nicobar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7611,
+          9.1573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "North and Middle Andaman",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.4618,
+          12.985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Anjaw",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.8382,
+          27.9941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Changlang",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.71,
+          27.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "East Kameng",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9262,
+          27.4407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "East Siang",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3333,
+          28.0667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Kamle",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4798,
+          28.218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Kra Daadi",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.7882,
+          27.9892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Kurung Kumey",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.5538,
+          27.7995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Lepa Rada",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1377,
+          28.1298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Lohit",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.2312,
+          27.9133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Longding",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3514,
+          26.884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Lower Dibang Valley",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.8494,
+          28.255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Lower Siang",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3598,
+          28.5137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Lower Subansiri",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.9435,
+          27.6764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Namsai",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.8714,
+          27.6689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Pakke Kessang",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.1125,
+          27.2046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Papum Pare",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.702,
+          27.171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Shi Yomi",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6979,
+          28.1277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "East Siang",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3333,
+          28.0667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Tawang",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8653,
+          27.5883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Tirap",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.4695,
+          26.9782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Upper Dibang Valley",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.152,
+          28.8129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Upper Siang",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.797,
+          28.8797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Upper Subansiri",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8922,
+          28.0823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "West Kameng",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4609,
+          27.3819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "West Siang",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4629,
+          27.6898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Baksa",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.598,
+          26.693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Barpeta",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91,
+          26.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Biswanath Chariali",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.1517,
+          26.7278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Charaideo",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.9917,
+          27.025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Tsirang",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.187,
+          27.0322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Darrang",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0469,
+          26.5659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Dhemaji",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.58,
+          27.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Dibrugarh",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95,
+          27.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Dima Hasao",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.01,
+          25.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Golaghat",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.97,
+          26.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Hailakandi",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.57,
+          24.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Hojai",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.87,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Jorhat",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.22,
+          26.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Kamrup",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5984,
+          26.3161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Karbi Anglong",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.3286,
+          26.0075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Karimganj",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.3814,
+          24.6005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Kokrajhar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.27,
+          26.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Lakhimpur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1514,
+          27.2064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Majuli",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1667,
+          26.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Nagaon",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6796,
+          26.3504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Nalbari",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.43,
+          26.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Sivasagar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.645,
+          27.0031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Sonitpur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8,
+          26.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "South Salmara Mankachar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0151,
+          25.8876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Tinsukia",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.6458,
+          27.5291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Odalguri",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0962,
+          26.7452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "West Karbi Anglong",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.5,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Araria",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3016,
+          26.1108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Jamui",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.3377,
+          24.7647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Sitamarhi",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.52,
+          26.6322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "West Champaran",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.3542,
+          27.1543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Balod",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2,
+          20.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Baloda Bazar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.17,
+          21.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Balrampur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.61,
+          23.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Bemetara",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.53,
+          21.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Bastar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.9535,
+          19.1071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Bijapur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.721,
+          18.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Bilaspur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.16,
+          22.0904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Dakshin Bastar Dantewada",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3839,
+          18.8456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Dhamtari",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.55,
+          20.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Durg",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.28,
+          21.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Gariaband",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0699,
+          20.6307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Janjgir Champa",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.4753,
+          21.9706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Jashpur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8473,
+          22.7875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Kabirdham",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2519,
+          22.0991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Kondagaon",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.67,
+          19.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Koriya",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.3886,
+          23.3875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Mahasamund",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.1,
+          21.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Mungeli",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.68,
+          22.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Narayanpur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2472,
+          19.7196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Raigarh",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4,
+          21.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Rajnandgaon",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.03,
+          21.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Sukma",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6667,
+          18.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Surajpur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.85,
+          23.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Surguja",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1649,
+          22.9494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Uttar Bastar Kanker",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.498,
+          20.2642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Daman and Diu",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8397,
+          20.4283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "North Goa",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.983,
+          15.5163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "South Goa",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.124,
+          15.1177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Amreli",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.23,
+          21.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Dahod",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.25,
+          22.8667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Dang",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7,
+          20.825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Devbhumi Dwarka",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3831,
+          22.1232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Jamnagar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.07,
+          22.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Junagadh",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.47,
+          21.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Morbi",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.83,
+          22.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Narmada River",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.75,
+          22.6667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Navsari",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9136,
+          20.9491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Porbandar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.6,
+          21.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Surendranagar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.51,
+          22.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Tapi",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6065,
+          21.2789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Valsad",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.93,
+          20.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Bilaspur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.687,
+          31.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Kinnaur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4752,
+          31.651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Kullu",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1,
+          31.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Lahaul and Spiti",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3784,
+          32.6192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Mandi",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9317,
+          31.7094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Rewari",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.62,
+          28.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Chatra",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.877,
+          24.2045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Dumka",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.2488,
+          24.2685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "East Singhbhum",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4997,
+          22.4867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Godda",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.2135,
+          24.8255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Gumla",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5,
+          23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Khunti",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2774,
+          23.0798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Latehar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5091,
+          23.7463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Lohardaga",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.6845,
+          23.4409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Pakur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.8501,
+          24.6337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Ramgarh",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5612,
+          23.6524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Sahebganj",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.65,
+          25.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Seraikela Kharsawan",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.92,
+          22.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "West Singhbhum",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4376,
+          22.3651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Doda",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.57,
+          33.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Kishtwar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.77,
+          33.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Punch",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.092,
+          33.767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Chamarajanagar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3,
+          12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Chikkamagaluru",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.77,
+          13.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Kodagu",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8069,
+          12.3375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Koppal",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.15,
+          15.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Raichur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.37,
+          16.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Ramanagara",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3,
+          12.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Yadgir",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.13,
+          16.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Alappuzha",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.33,
+          9.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Ernakulam",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.28,
+          9.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Thrissur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.21,
+          10.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Lakshadweep",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6417,
+          10.5667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Gadchiroli",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80,
+          20.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Gondia",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1961,
+          21.4549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Osmanabad",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0397,
+          18.1794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Wardha",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6022,
+          20.7453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Washim",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1313,
+          20.1119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "East Garo Hills",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5258,
+          25.5672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "East Jaintia Hills",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.3546,
+          25.3421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "North Garo Hills",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6974,
+          25.8647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Ribhoi",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8863,
+          25.803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "South Garo Hills",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5893,
+          25.3008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "South West Garo Hills",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9656,
+          25.4437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "South West Khasi Hills",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.291,
+          25.4805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "West Garo Hills",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1307,
+          25.5823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "West Jaintia Hills",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2821,
+          25.4849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "West Khasi Hills",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.291,
+          25.4805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Bishnupur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7667,
+          24.6333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Chandel",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.9926,
+          24.3274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Churachandpur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7002,
+          24.3466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Imphal East",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.039,
+          24.9039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Imphal West",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8859,
+          24.7828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Jiribam",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.12,
+          24.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Kakching",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.98,
+          24.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Kamjong",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5106,
+          24.8656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Kangpokpi",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.9706,
+          25.1489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Noney",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.624,
+          24.8596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Pherzawl",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.2175,
+          24.3244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Senapati",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0265,
+          25.2727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Tamenglong",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.4833,
+          24.9833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Tengnoupal",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2156,
+          24.3727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Thoubal",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.02,
+          24.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Ukhrul",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.9503,
+          24.814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Anuppur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7005,
+          23.1152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Ashoknagar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7319,
+          24.5775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Balaghat",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1838,
+          21.8129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Bhind",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7705,
+          26.5857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Chhatarpur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5822,
+          24.9157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Damoh",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.45,
+          23.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Datia",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.47,
+          25.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Jhabua",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6,
+          22.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Katni",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4,
+          23.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Mandla",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.38,
+          22.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Narsinghpur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.192,
+          22.947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Niwari, Madhya Pradesh",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.71,
+          25.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Panna",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17,
+          24.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Rajgarh",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.88,
+          24.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Rewa",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3,
+          24.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Satna",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.83,
+          24.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Rewa MP",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.303,
+          24.536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Shivpuri",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.65,
+          25.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Sidhi",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8825,
+          24.3956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Singrauli",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.666,
+          24.202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Umaria",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1,
+          23.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Aizawl",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7178,
+          23.7272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Champhai",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.329,
+          23.456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Hnahthial",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9113,
+          22.9826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Khawzawl",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.1612,
+          23.5251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Kolasib",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6761,
+          24.2311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Lawngtlai",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8965,
+          22.5336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Lunglei",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.73,
+          22.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Mamit",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.48,
+          23.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Saiha",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.97,
+          22.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Saitual",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9557,
+          23.6896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Serchhip",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8502,
+          23.3417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Dimapur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.726,
+          25.909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Kiphire",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.785,
+          25.868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Kohima",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1167,
+          25.6667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Longleng",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8092,
+          26.4685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Mokokchung",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5167,
+          26.3167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Mon",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.061,
+          26.733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Peren",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7406,
+          25.554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Phek",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          25.6667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Tuensang",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8314,
+          26.2716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Wokha",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.27,
+          26.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Zunheboto",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.52,
+          25.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Bargarh",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.62,
+          21.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Boudh",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.333,
+          20.833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Cuttack",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.52,
+          20.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Gajapati",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.2,
+          19.191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Kandhamal",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0417,
+          20.1081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Malkangiri",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.9,
+          19.191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Nabarangpur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.55,
+          19.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Nuapada",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.5333,
+          20.8167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Puri",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8313,
+          19.8188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Rayagada",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.42,
+          19.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Sambalpur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.97,
+          21.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Subarnapur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9,
+          20.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Fazilka",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.025,
+          30.403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Rupnagar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5331,
+          30.9664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Karaikal",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8319,
+          10.9327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Mahé",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5337,
+          11.7208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Yanam",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.25,
+          16.7333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Baran",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.52,
+          25.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Bundi",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.648,
+          25.432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Sri Ganganagar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.88,
+          29.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Pratapgarh",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7804,
+          24.0344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "East Sikkim",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6,
+          27.317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "North ",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.556,
+          27.823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "South ",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.394,
+          27.285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "West Bengal",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5122,
+          27.533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Bhadradri Kothagudem",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5715,
+          17.7153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Mahabubabad",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0167,
+          17.6167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Mulugu",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.941,
+          18.193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Nagarkurnool",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3333,
+          16.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Nizampatnam",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6667,
+          15.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Siddipet",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.85,
+          18.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Wanaparthy",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0627,
+          16.361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Warangal Rural",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.019,
+          18.112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Yadadri Bhuvanagiri",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.019,
+          18.112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Erode",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7333,
+          11.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Khowai",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6232,
+          24.0467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Sipahijala",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7468,
+          23.7451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "South Tripura",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6667,
+          23.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Unokoti",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.046,
+          24.191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "West Tripura",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5,
+          23.9167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Ambedkar Nagar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1333,
+          27.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Ballia",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.1483,
+          25.7611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Barabanki",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2,
+          26.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Chandauli",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2497,
+          25.1266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Chitrakoot",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1023,
+          25.2195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Farrukhabad",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4891,
+          27.4372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Hamirpur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80,
+          25.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Kanpur Dehat",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8555,
+          26.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Kushinagar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9162,
+          26.7438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Lakhimpur Kheri",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7538,
+          27.9851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Lalitpur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.416,
+          24.6902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Maharajganj",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.57,
+          27.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Mahoba",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.705,
+          25.3618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Shahjahanpur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7466,
+          27.9126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Siddharthnagar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.0928,
+          27.2991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Sonbhadra",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.0786,
+          24.3866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Bageshwar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.77,
+          29.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Chamoli",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.6188,
+          30.4996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Champawat",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1,
+          29.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Haridwar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.17,
+          29.956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Pithoragarh",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22,
+          29.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Rudraprayag",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.98,
+          30.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Tehri Garhwal",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6667,
+          30.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Alipurduar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.527,
+          26.489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Bankura",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.0667,
+          23.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Cooch Behar",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.451,
+          26.3242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Dakshin Dinajpur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5047,
+          25.387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Jhargram",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5047,
+          22.3599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Purulia",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.9626,
+          23.3917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "District": "Uttar Dinajpur",
+        "Zone": "Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9624,
+          25.8708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "South Andaman",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0392,
+          11.4102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Chittoor",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1167,
+          13.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Guntur",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.45,
+          16.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Krishna",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1001,
+          16.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Kurnool",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.03,
+          15.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "S.P.S. Nellore",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9557,
+          14.4022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Bongaigaon",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.56,
+          26.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Buxar",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.1435,
+          25.4988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Gaya",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85,
+          24.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Munger",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.465,
+          25.381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Patna",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.13,
+          25.625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Rohtas",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0167,
+          25.0686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Chandigarh",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.78,
+          30.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Raipur",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.38,
+          21.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Central Delhi",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2167,
+          28.6643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Delhi",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.23,
+          28.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "New Delhi",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2089,
+          28.6139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "North Delhi",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1412,
+          28.7886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "North East Delhi",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.258,
+          28.7184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "North West Delhi",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0685,
+          28.7186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Shahdara",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.271,
+          28.6816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "South Delhi",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1873,
+          28.4817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "South East Delhi",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2611,
+          28.563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "South West Delhi",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0346,
+          28.5929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Delhi",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.23,
+          28.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Ahmedabad",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          23.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Surat",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83,
+          21.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Vadodara",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2003,
+          22.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Faridabad",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3167,
+          28.4333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Sonipat",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.02,
+          28.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Ranchi",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.33,
+          23.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Anantnag",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.15,
+          33.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Bandipore",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.65,
+          34.4167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Baramulla",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.364,
+          34.198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Budgam",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7197,
+          34.0178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Ganderbal",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.78,
+          34.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Jammu",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.87,
+          32.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Kathua",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.52,
+          32.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Kulgam",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.02,
+          33.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Kupwara",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.27,
+          34.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Pulwama",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.92,
+          33.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Samba",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.12,
+          32.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Shupiyan",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.83,
+          33.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Srinagar",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.79,
+          34.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Bangalore Rural",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5746,
+          12.9811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Bengaluru Urban",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6536,
+          12.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Mysore",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.65,
+          12.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Kannur",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3555,
+          11.8689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Kottayam",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.52,
+          9.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Akola",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77,
+          20.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Aurangabad",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3203,
+          19.8957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Dhule",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7697,
+          20.8997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Jalgaon",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5667,
+          20.998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Mumbai",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8258,
+          18.975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Mumbai Suburban",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8752,
+          19.1538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Nagpur",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09,
+          21.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Nashik",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.78,
+          20
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Palghar",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.76,
+          19.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Pune",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8567,
+          18.5203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Satara",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74,
+          17.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Solapur",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.9,
+          17.6704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Thane",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.957,
+          19.1724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Yavatmal",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1307,
+          20.3899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Barwani",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9033,
+          22.0363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Bhopal",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.41,
+          23.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Dewas",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.06,
+          22.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Dhar",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3,
+          22.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Gwalior",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.178,
+          26.2215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Indore",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8655,
+          22.7253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Jabalpur",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9333,
+          23.1667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Khandwa",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.34,
+          21.8314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Ujjain",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7772,
+          23.1828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Angul",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0239,
+          20.7972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Balasore",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.93,
+          21.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Bhadrak",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.5,
+          21.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Ganjam",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.07,
+          19.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Jajpur",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.33,
+          20.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Jalandhar",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.576,
+          31.326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Ludhiana",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.85,
+          30.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Patiala",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.38,
+          30.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Ajmer",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.64,
+          26.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Banswara",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.45,
+          23.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Bharatpur",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5,
+          27.2504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Jaipur",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8235,
+          26.926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Jhalawar",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.15,
+          24.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Jodhpur",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02,
+          26.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Kota",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.83,
+          25.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Nagaur",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.73,
+          27.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Hyderabad",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.476,
+          17.366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Medchal Malkajgiri",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.585,
+          17.4139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Ranga Reddy",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8367,
+          17.389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Suryapet",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.6236,
+          17.1414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Vikarabad",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9,
+          17.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Warangal Urban",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.919,
+          17.974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Chengalpattu",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.98,
+          12.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Chennai",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28,
+          13.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Kanchipuram",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.71,
+          12.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Madurai",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1194,
+          9.9197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Namakkal",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1667,
+          11.2333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Ranipet",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3302,
+          12.9275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Thanjavur",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1313,
+          10.7825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Tiruvallur",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.91,
+          13.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Thiruvarur",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.637,
+          10.773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Tiruppur",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.34,
+          11.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Vellore",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1333,
+          12.9202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Virudhunagar",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.95,
+          9.5833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Dhalai",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9732,
+          23.8253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Agra",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.015,
+          27.1704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Aligarh",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0618,
+          27.8922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Amroha",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.47,
+          28.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Bareilly",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3833,
+          28.4167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Bijnor",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4809,
+          29.406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Bulandshahr",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.833,
+          28.417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Firozabad",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3949,
+          27.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Gautam Buddh Nagar",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3891,
+          28.5333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Kanpur Nagar",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2693,
+          26.4402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Lucknow",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.915,
+          26.855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Mathura",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.67,
+          27.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Meerut",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7,
+          28.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Moradabad",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.78,
+          28.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Muzaffarnagar",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7089,
+          29.4723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Raebareli",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2336,
+          26.2338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Rampur",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79,
+          28.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Saharanpur",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.55,
+          29.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Sant Kabir Nagar",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9601,
+          26.7883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Varanasi",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83,
+          25.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Howrah",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5047,
+          23.4845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Kolkata",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5047,
+          23.3712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "North 24 Parganas",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.1645,
+          22.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LOCATION": "Purba Medinipur",
+        "Zone": "Red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5378,
+          22.3
+        ]
+      }
+    }
+  ]
+}
