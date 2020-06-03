@@ -1,0 +1,131 @@
+﻿LOCATION,Zone,LATITUDE,LONGITUDE
+South Andaman,Red,11.4102,93.0392
+Chittoor,Red,13.2000,79.1167
+Guntur,Red,16.3300,80.4500
+Krishna,Red,16.6100,80.1001
+Kurnool,Red,15.8300,78.0300
+S.P.S. Nellore,Red,14.4022,79.9557
+Bongaigaon,Red,26.4800,90.5600
+Buxar,Red,25.4988,84.1435
+Gaya,Red,24.8000,85.0000
+Munger,Red,25.3810,86.4650
+Patna,Red,25.6250,85.1300
+Rohtas,Red,25.0686,84.0167
+Chandigarh,Red,30.7200,76.7800
+Raipur,Red,21.1400,81.3800
+Central Delhi,Red,28.6643,77.2167
+Delhi,Red,28.6700,77.2300
+New Delhi,Red,28.6139,77.2089
+North Delhi,Red,28.7886,77.1412
+North East Delhi,Red,28.7184,77.2580
+North West Delhi,Red,28.7186,77.0685
+Shahdara,Red,28.6816,77.2710
+South Delhi,Red,28.4817,77.1873
+South East Delhi,Red,28.5630,77.2611
+South West Delhi,Red,28.5929,77.0346
+Delhi,Red,28.6700,77.2300
+Ahmedabad,Red,23.0300,72.5800
+Surat,Red,21.1700,72.8300
+Vadodara,Red,22.3000,73.2003
+Faridabad,Red,28.4333,77.3167
+Sonipat,Red,28.9800,77.0200
+Ranchi,Red,23.3500,85.3300
+Anantnag,Red,33.7300,75.1500
+Bandipore,Red,34.4167,74.6500
+Baramulla,Red,34.1980,74.3640
+Budgam,Red,34.0178,74.7197
+Ganderbal,Red,34.2300,74.7800
+Jammu,Red,32.7300,74.8700
+Kathua,Red,32.3700,75.5200
+Kulgam,Red,33.6500,75.0200
+Kupwara,Red,34.3000,74.2700
+Pulwama,Red,33.8800,74.9200
+Samba,Red,32.5700,75.1200
+Shupiyan,Red,33.7200,74.8300
+Srinagar,Red,34.0900,74.7900
+Bangalore Rural,Red,12.9811,77.5746
+Bengaluru Urban,Red,12.9700,77.6536
+Mysore,Red,12.3000,76.6500
+Kannur,Red,11.8689,75.3555
+Kottayam,Red,9.5800,76.5200
+Akola,Red,20.7000,77.0000
+Aurangabad,Red,19.8957,75.3203
+Dhule,Red,20.8997,74.7697
+Jalgaon,Red,20.9980,75.5667
+Mumbai,Red,18.9750,72.8258
+Mumbai Suburban,Red,19.1538,72.8752
+Nagpur,Red,21.1700,79.0900
+Nashik,Red,20.0000,73.7800
+Palghar,Red,19.6900,72.7600
+Pune,Red,18.5203,73.8567
+Satara,Red,17.7000,74.0000
+Solapur,Red,17.6704,75.9000
+Thane,Red,19.1724,72.9570
+Yavatmal,Red,20.3899,78.1307
+Barwani,Red,22.0363,74.9033
+Bhopal,Red,23.2500,77.4100
+Dewas,Red,22.9600,76.0600
+Dhar,Red,22.6000,75.3000
+Gwalior,Red,26.2215,78.1780
+Indore,Red,22.7253,75.8655
+Jabalpur,Red,23.1667,79.9333
+Khandwa,Red,21.8314,76.3400
+Ujjain,Red,23.1828,75.7772
+Angul,Red,20.7972,85.0239
+Balasore,Red,21.4900,86.9300
+Bhadrak,Red,21.0600,86.5000
+Ganjam,Red,19.3800,85.0700
+Jajpur,Red,20.8500,86.3300
+Jalandhar,Red,31.3260,75.5760
+Ludhiana,Red,30.9100,75.8500
+Patiala,Red,30.3400,76.3800
+Ajmer,Red,26.4500,74.6400
+Banswara,Red,23.5500,74.4500
+Bharatpur,Red,27.2504,77.5000
+Jaipur,Red,26.9260,75.8235
+Jhalawar,Red,24.6000,76.1500
+Jodhpur,Red,26.2800,73.0200
+Kota,Red,25.1800,75.8300
+Nagaur,Red,27.2000,73.7300
+Hyderabad,Red,17.3660,78.4760
+Medchal Malkajgiri,Red,17.4139,78.5850
+Ranga Reddy,Red,17.3890,77.8367
+Suryapet,Red,17.1414,79.6236
+Vikarabad,Red,17.3300,77.9000
+Warangal Urban,Red,17.9740,79.9190
+Chengalpattu,Red,12.7000,79.9800
+Chennai,Red,13.0900,80.2800
+Kanchipuram,Red,12.8200,79.7100
+Madurai,Red,9.9197,78.1194
+Namakkal,Red,11.2333,78.1667
+Ranipet,Red,12.9275,79.3302
+Thanjavur,Red,10.7825,79.1313
+Tiruvallur,Red,13.1500,79.9100
+Thiruvarur,Red,10.7730,79.6370
+Tiruppur,Red,11.1100,77.3400
+Vellore,Red,12.9202,79.1333
+Virudhunagar,Red,9.5833,77.9500
+Dhalai,Red,23.8253,91.9732
+Agra,Red,27.1704,78.0150
+Aligarh,Red,27.8922,78.0618
+Amroha,Red,28.9000,78.4700
+Bareilly,Red,28.4167,79.3833
+Bijnor,Red,29.4060,78.4809
+Bulandshahr,Red,28.4170,77.8330
+Firozabad,Red,27.1500,78.3949
+Gautam Buddh Nagar,Red,28.5333,77.3891
+Kanpur Nagar,Red,26.4402,80.2693
+Lucknow,Red,26.8550,80.9150
+Mathura,Red,27.5000,77.6700
+Meerut,Red,28.9900,77.7000
+Moradabad,Red,28.8300,78.7800
+Muzaffarnagar,Red,29.4723,77.7089
+Raebareli,Red,26.2338,81.2336
+Rampur,Red,28.8000,79.0000
+Saharanpur,Red,29.9700,77.5500
+Sant Kabir Nagar,Red,26.7883,82.9601
+Varanasi,Red,25.3300,83.0000
+Howrah,Red,23.4845,88.5047
+Kolkata,Red,23.3712,88.5047
+North 24 Parganas,Red,22.1300,87.1645
+Purba Medinipur,Red,22.3000,88.5378

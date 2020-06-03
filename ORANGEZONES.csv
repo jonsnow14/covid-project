@@ -1,0 +1,327 @@
+﻿LOCATION,Zone,LATITUDE,LONGITUDE
+Anantapur,Orange,14.6819,77.6006
+East Godavari,Orange,17.1606,82.0555
+Prakasam,Orange,15.6360,79.6078
+Srikakulam,Orange,18.2970,83.8968
+Visakhapatnam,Orange,17.6868,83.2185
+Vizianagaram,Orange,18.1204,83.5000
+West Godavari,Orange,16.9174,81.3399
+Y.S.R. Kadapa,Orange,14.4647,78.7801
+Cachar,Orange,25.4561,93.0015
+Dhubri,Orange,26.0200,90.0000
+Goalpara,Orange,26.1700,90.6200
+Kamrup Metropolitan,Orange,26.0790,91.6370
+Marigaon,Orange,26.2533,92.3424
+Arwal,Orange,25.1643,84.6688
+Aurangabad,Orange,24.7704,84.3800
+Banka,Orange,24.8800,86.9200
+Begusarai,Orange,25.4167,86.1333
+Bhagalpur,Orange,25.2500,87.0000
+Bhojpur,Orange,25.4662,84.5222
+Darbhanga,Orange,26.0000,86.0000
+East Champaran,Orange,26.6098,84.8568
+Gopalganj,Orange,26.4514,84.3963
+Jehanabad,Orange,25.2167,84.9833
+Kaimur Wildlife Sanctuary,Orange,25.0500,83.5000
+Katihar,Orange,25.5488,87.6186
+Khagaria,Orange,25.4838,86.7014
+Kishanganj,Orange,25.6768,86.9457
+Lakhisarai,Orange,25.1861,86.1345
+Madhepura,Orange,25.8674,86.9424
+Madhubani,Orange,26.3500,86.0800
+Muzaffarpur,Orange,26.1204,85.3799
+Nalanda,Orange,25.1367,85.4439
+Nawada,Orange,24.8800,85.5300
+Purnia,Orange,25.7800,87.4700
+Saharsa,Orange,25.8603,86.6208
+Samastipur,Orange,25.8625,85.7826
+Saran,Orange,25.8560,84.8568
+Sheikhpura,Orange,25.0848,85.8896
+Sheohar,Orange,26.5200,85.3000
+Siwan,Orange,26.1689,84.3963
+Supaul,Orange,25.9300,86.2500
+Vaishali,Orange,25.6833,85.2167
+Korba,Orange,22.5472,82.6483
+Dadra and Nagar Haveli,Orange,20.1809,73.0169
+Anand,Orange,22.5700,72.9300
+Aravalli,Orange,23.5200,73.3700
+Banaskantha,Orange,24.3455,71.7622
+Bharuch,Orange,21.7050,72.9833
+Bhavnagar,Orange,21.7600,72.1500
+Botad,Orange,22.1700,71.6700
+Chhota Udaipur,Orange,22.3200,74.0100
+Gandhinagar,Orange,23.2200,72.6800
+Gir Somnath,Orange,21.0119,70.7168
+Kheda,Orange,22.7500,72.6800
+Kutch,Orange,23.7337,69.8597
+Mahisagar,Orange,23.1330,73.6167
+Mehsana,Orange,23.6000,72.4000
+Panchmahal,Orange,22.8011,73.5594
+Patan,Orange,23.8500,72.1210
+Rajkot,Orange,22.3000,70.7833
+Sabarkantha,Orange,23.8477,72.9933
+Chamba,Orange,32.5700,76.1300
+Hamirpur,Orange,31.6862,76.5213
+Kangra,Orange,32.0998,76.2691
+Shimla,Orange,31.1000,77.1666
+Sirmaur,Orange,30.5628,77.4702
+Solan,Orange,30.9084,77.0999
+Una,Orange,31.4685,76.2708
+Ambala,Orange,30.3200,76.8200
+Bhiwani,Orange,28.8100,76.1250
+Charkhi Dadri,Orange,28.5900,76.2700
+Fatehabad,Orange,29.3100,75.2700
+Gurgaon,Orange,28.2500,77.1667
+Hisar,Orange,29.1700,75.7250
+Jhajjar,Orange,28.6055,76.6538
+Jind,Orange,29.3167,76.3167
+Kaithal,Orange,29.8043,76.4039
+Karnal,Orange,29.6900,76.9800
+Kurukshetra,Orange,29.9657,76.8370
+Mahendragarh,Orange,28.2734,76.1401
+Nuh,Orange,28.1200,77.0200
+Palwal,Orange,28.1400,77.3300
+Panchkula,Orange,30.7400,76.8000
+Panipat,Orange,29.3900,76.9700
+Rohtak,Orange,28.8909,76.5796
+Sirsa,Orange,29.5300,75.0000
+Yamuna Nagar,Orange,30.1000,77.2800
+Bokaro Steel City,Orange,23.6700,86.1500
+Deoghar,Orange,24.4800,86.7000
+Dhanbad,Orange,23.8000,86.4500
+Garhwa,Orange,24.1549,83.7996
+Giridih,Orange,24.1913,86.2996
+Hazaribagh,Orange,23.9925,85.3637
+Jamtara,Orange,23.9505,86.8170
+Kodarma,Orange,24.4700,85.6000
+Palamu,Orange,24.1286,84.1857
+Simdega,Orange,22.6151,84.4960
+Rajauri,Orange,33.3800,74.3000
+Ramban,Orange,33.2500,75.2500
+Reasi,Orange,33.0800,74.8300
+Udhampur,Orange,32.9300,75.1300
+Bagalkot,Orange,16.1817,75.6958
+Bellary,Orange,15.1500,76.9167
+Belgaum,Orange,15.8500,74.5000
+Bidar,Orange,17.9200,77.5197
+Chikkaballapur,Orange,13.4300,77.7200
+Chitradurga,Orange,14.0000,76.5000
+Dakshina Kannada,Orange,12.8438,75.2479
+Davanagere,Orange,14.4644,75.9218
+Dharwad,Orange,15.3500,75.0833
+Gadag-Betageri,Orange,15.4167,75.6167
+Hassan,Orange,13.0000,76.0000
+Haveri,Orange,14.7939,75.4039
+Gulbarga,Orange,17.3333,76.8333
+Kolar,Orange,13.1333,78.1333
+Mandya,Orange,12.5200,76.9000
+Shimoga,Orange,13.9167,75.5667
+Tumkur,Orange,13.3400,77.1000
+Udupi,Orange,13.3389,74.7451
+Uttara Kannada,Orange,14.6000,74.7000
+Vijayapura,Orange,13.2900,77.8000
+Idukki,Orange,9.8500,76.9700
+Kasaragod,Orange,12.5000,75.0000
+Kollam,Orange,8.8800,76.6000
+Kozhikode,Orange,11.2500,75.7700
+Malappuram,Orange,11.0410,76.0830
+Palakkad,Orange,10.7700,76.6500
+Pathanamthitta,Orange,9.2647,76.7872
+Thiruvananthapuram,Orange,8.4875,76.9525
+Wayanad,Orange,11.6854,76.1320
+Kargil,Orange,34.5500,76.1333
+Leh,Orange,34.1454,77.5676
+Ahmednagar,Orange,19.0800,74.7300
+Amravati,Orange,20.9258,77.7647
+Beed,Orange,18.9900,75.7600
+Bhandara,Orange,21.1700,79.6500
+Buldhana,Orange,20.5328,76.1828
+Chandrapur,Orange,19.9500,79.3000
+Hingoli,Orange,19.7174,77.1494
+Jalna,Orange,19.8300,75.8800
+Kolhapur,Orange,16.7000,74.2200
+Latur,Orange,18.4000,76.5800
+Pune,Orange,18.5203,73.8567
+Nandurbar,Orange,21.3700,74.2500
+Parbhani,Orange,19.2700,76.7800
+Raigad Fort,Orange,18.2350,73.4478
+Ratnagiri,Orange,16.9800,73.3000
+Sangli,Orange,16.8670,74.5670
+Asoli,Orange,15.4800,73.4000
+East Khasi Hills,Orange,25.3860,91.7495
+Agar Malwa,Orange,26.8040,82.7413
+Alirajpur,Orange,22.3403,74.4995
+Betul,Orange,21.9012,77.8960
+Burhanpur,Orange,21.3004,76.1300
+Chhindwara,Orange,22.0700,78.9300
+Dindori,Orange,22.8457,81.0755
+Guna,Orange,24.6500,77.3200
+Harda,Orange,22.3355,77.0996
+Hoshangabad,Orange,22.7441,77.7370
+Khargone,Orange,21.4900,75.3600
+Mandsaur,Orange,24.0300,75.0800
+Morena,Orange,26.5000,78.0000
+Neemuch,Orange,24.4500,74.8700
+Raisen,Orange,23.3300,77.8000
+Ratlam,Orange,23.3340,75.0370
+Sagar,Orange,23.8380,78.7378
+Sehore,Orange,23.2000,77.0800
+Shahdol,Orange,23.3022,81.3568
+Shajapur,Orange,23.4246,76.2757
+Sheopur,Orange,25.6700,76.7000
+Tikamgarh,Orange,24.8069,78.8625
+Vidisha,Orange,23.5300,77.8200
+Balangir,Orange,20.7000,83.5000
+Deogarh,Orange,21.5380,84.7280
+Dhenkanal,Orange,20.6500,85.6000
+Jagatsinghpur,Orange,20.2700,86.1700
+Jharsuguda,Orange,21.8500,84.0300
+Kalahandi,Orange,20.0830,83.2000
+Kendrapara,Orange,20.5000,86.4200
+Kendujhar,Orange,21.6330,85.6000
+Khordha,Orange,20.1660,85.6660
+Koraput,Orange,19.1910,82.7083
+Mayurbhanj,Orange,21.8242,86.4242
+Nayagarh,Orange,20.1300,85.1000
+Sundergarh,Orange,22.1200,84.0300
+Amritsar,Orange,31.6400,74.8600
+Barnala,Orange,30.3833,75.5500
+Bathinda,Orange,30.2100,74.9400
+Faridkot,Orange,30.6700,74.7600
+Fatehgarh Sahib,Orange,30.6472,76.3931
+Firozpur,Orange,30.9166,74.6000
+Gurdaspur,Orange,31.9167,75.2500
+Hoshiarpur,Orange,31.5300,75.9200
+Kapurthala,Orange,31.3794,75.3847
+Mansa,Orange,29.9833,75.3833
+Moga,Orange,30.8000,75.1700
+Pathankot,Orange,32.2668,75.6434
+Mohali,Orange,30.7800,76.6900
+Sangrur,Orange,30.2506,75.8442
+Shahid Bhagat Singh Nagar,Orange,31.1274,76.1093
+Sri Muktsar Sahib,Orange,30.4750,74.5150
+Tarn Taran Sahib,Orange,31.4491,74.9205
+Puducherry,Orange,11.9350,79.8300
+Alwar,Orange,27.5454,76.6049
+Barmer,Orange,25.7500,71.3800
+Bhilwara,Orange,25.3504,74.6350
+Bikaner,Orange,28.0304,73.3299
+Chittorgarh,Orange,24.8820,74.6230
+Churu,Orange,23.4246,76.2757
+Dausa,Orange,26.8932,76.3375
+Dholpur,Orange,26.7000,77.9000
+Dungarpur,Orange,23.8417,73.7147
+Hanumangarh,Orange,29.6109,74.2951
+Jaisalmer,Orange,26.9200,70.9000
+Jalore,Orange,25.3500,72.6200
+Jhunjhunu,Orange,28.1300,75.4000
+Karauli,Orange,26.5000,77.0200
+Pali,Orange,25.7700,73.3300
+Rajsamand,Orange,25.0700,73.8800
+Sawai Madhopur,Orange,26.0174,76.3554
+Sikar,Orange,27.6200,75.1500
+Sirohi,Orange,24.8852,72.8575
+Tonk,Orange,26.1505,75.7900
+Udaipur,Orange,24.6000,73.7300
+Adilabad,Orange,19.6700,78.5300
+Jagtial,Orange,18.8000,78.9300
+Jangaon,Orange,17.7200,79.1800
+Jayashankar Bhupalapally,Orange,18.4293,79.8630
+Jogulamba Gadwal,Orange,16.2330,77.8080
+Kamareddy,Orange,18.3167,78.3500
+Karimnagar,Orange,18.4369,79.1242
+Khammam,Orange,17.2500,80.1500
+Asifabad,Orange,19.3700,79.2800
+Mahbubnagar,Orange,16.7500,78.0000
+Mancherial,Orange,18.8679,79.4639
+Medak,Orange,18.0460,78.2630
+Nalgonda,Orange,17.0500,79.2700
+Narayanpet,Orange,16.7300,77.5000
+Nirmal,Orange,19.1000,78.3500
+Nizamabad,Orange,18.6720,78.0940
+Rajanna Sircilla,Orange,18.3880,78.8000
+Sangareddi,Orange,17.6294,78.0917
+Ariyalur,Orange,11.0760,79.1175
+Coimbatore,Orange,11.0183,76.9725
+Cuddalore,Orange,11.7500,79.7500
+Dharmapuri,Orange,12.1260,78.1540
+Dindigul,Orange,10.3500,77.9500
+Kallakurichi,Orange,11.7389,78.9739
+Kanyakumari,Orange,8.0780,77.5410
+Karur,Orange,10.9500,78.0800
+Krishnagiri,Orange,12.5300,78.2300
+Nagapattinam,Orange,10.7700,79.8300
+Nilgiris,Orange,11.4000,76.7000
+Perambalur,Orange,11.2300,78.8800
+Pudukkottai,Orange,10.3800,78.8200
+Ramanathapuram,Orange,9.3800,78.8300
+Salem,Orange,11.6500,78.1600
+Sivaganga,Orange,9.8700,78.4800
+Tenkasi,Orange,8.9700,77.3000
+Theni,Orange,10.0090,77.4700
+Thoothukudi,Orange,8.8100,78.1400
+Tiruchirappalli,Orange,10.8050,78.6856
+Tirunelveli,Orange,8.7300,77.7000
+Tiruppattur,Orange,12.5000,78.6000
+Tiruvannamalai,Orange,12.2200,79.0700
+Viluppuram,Orange,11.9410,79.4930
+Gomati,Orange,23.4613,91.6072
+North Tripura,Orange,24.0921,92.2451
+Amethi,Orange,26.3474,81.6239
+Auraiya,Orange,26.6557,79.5150
+Faizabad,Orange,26.6381,82.0590
+Azamgarh,Orange,26.6000,83.1900
+Bagpat,Orange,28.9400,77.2200
+Bahraich,Orange,27.7337,81.4773
+Balrampur,Orange,27.4333,82.1833
+Banda,Orange,25.5008,80.4998
+Basti,Orange,27.2500,83.0000
+Bhadohi,Orange,25.4200,82.5700
+Budaun,Orange,28.0300,79.0900
+Deoria,Orange,26.4238,83.7627
+Etah,Orange,27.5541,78.6008
+Etawah,Orange,26.7855,79.0150
+Fatehpur,Orange,25.9333,80.8000
+Ghaziabad,Orange,28.6604,77.4084
+Ghazipur,Orange,25.6035,83.5075
+Gonda,Orange,27.1097,81.9183
+Gorakhpur,Orange,26.7550,83.3739
+Hapur,Orange,28.7437,77.7628
+Hardoi,Orange,27.3386,80.0975
+Hathras,Orange,27.6000,78.0500
+Jalaun,Orange,26.0600,79.4200
+Jaunpur,Orange,25.7956,82.4883
+Jhansi,Orange,25.4486,78.5696
+Kannauj,Orange,26.9997,79.6886
+Kasganj,Orange,27.8200,78.6500
+Kaushambi,Orange,25.5361,81.4467
+Mainpuri,Orange,27.1667,79.0000
+Mau,Orange,26.0377,83.4979
+Mirzapur,Orange,25.1500,82.6000
+Pilibhit,Orange,28.5500,80.1000
+Pratapgarh,Orange,25.9330,81.9830
+Allahabad,Orange,25.4500,81.8500
+Sambhal,Orange,28.5800,78.5500
+Shamli,Orange,29.4481,77.3103
+Shravasti,Orange,27.5083,82.0264
+Sitapur,Orange,27.5046,80.8295
+Sultanpur,Orange,26.2425,82.2962
+Unnao,Orange,26.5755,80.6138
+Almora,Orange,29.6200,79.6700
+Dehradun,Orange,30.1812,78.1220
+Nainital,Orange,29.2300,79.2700
+Pauri Garhwal,Orange,29.8459,78.7077
+Udham Singh Nagar,Orange,29.0481,79.4313
+Uttarkashi,Orange,30.7300,78.4500
+Birbhum,Orange,23.9167,87.5333
+Darjeeling,Orange,26.6265,88.5047
+Hooghly,Orange,25.0057,88.5047
+Jalpaiguri,Orange,26.6265,88.5047
+Kalimpong,Orange,23.3917,88.5047
+Malda,Orange,25.0057,88.5047
+Murshidabad,Orange,25.8708,88.5047
+Nadia,Orange,23.4845,88.5568
+Paschim Bardhaman,Orange,23.4845,87.4133
+Paschim Medinipur,Orange,23.6426,87.9062
+Purba Bardhaman,Orange,22.3599,86.4189
+South 24 Parganas,Orange,22.1815,88.5378
